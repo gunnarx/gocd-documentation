@@ -59,7 +59,7 @@ Parameter usage within [templates](pipeline_templates.md) is similar to usage wi
 
 ```
 
-The parameter defined above is used the template below.
+The parameter is used in the template below.
 
 ```xml
 <pipeline name="my_template">
